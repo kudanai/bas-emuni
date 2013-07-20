@@ -4,6 +4,9 @@ I was bored. Wanted to get a feel for pygame… this is a very simple and hackis
 
 needs a better dictionary, and better selection of what letter-vowel combination goes on the tiles. Right now, it's playable, but not very exciting because the words you can form are limited.
 
+#screenshot
+![image](http://i.imgur.com/bZH9hDZ.png)
+
 
 ##credits for resources
 
